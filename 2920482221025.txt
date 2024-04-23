@@ -1,0 +1,7 @@
+Nome Completo: Igor dos Santos Cardoso;
+RA 2920482221025;
+Idade 25 anos;
+@gitHub: https://github.com/igorsc0fatec;
+@LinkedIn: https://www.linkedin.com/in/igor-santos-12139b168/;
+Curso: Análise e Desenvolvimento de Sistemas;
+Turma: 4º Semestre;
